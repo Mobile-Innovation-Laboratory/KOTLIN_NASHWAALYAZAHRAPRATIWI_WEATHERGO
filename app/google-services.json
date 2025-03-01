@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173998448554",
+    "project_id": "motion-project-tubes",
+    "storage_bucket": "motion-project-tubes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173998448554:android:21e1e36b7c68b62b0315d3",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.firebaseauthdemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLGVdTISi_OJCIrx6Nwm3FQZZmlnYHjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
