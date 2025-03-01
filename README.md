@@ -6,11 +6,16 @@ Deskripsi:
 
 **WeatherGo** adalah aplikasi untuk melihat prakiraan cuaca real-time, menyimpan kota favorit, dan mencatat informasi penting terkait cuaca.
 
-✨ Fitur Utama
+✨ Fitur Utama :
+
 🔐 Autentikasi Firebase
+
 ❤️ Daftar Kota Favorit
+
 📝 CRUD Catatan (Firebase Firestore)
+
 📱 Desain & Teknologi
+
 
 ![image](https://github.com/user-attachments/assets/75f2bd83-c298-4f0a-a087-22e6e9443ba7)
 ![image](https://github.com/user-attachments/assets/cfafeb5a-6ad4-445a-90a5-8fdaaa04654b)
@@ -27,6 +32,10 @@ Deskripsi:
 
 🚀 Cara Menjalankan
 -Clone repositori ini.
+
 -Konfigurasi Firebase di google-services.json.
+
 -Tambahkan API key untuk layanan cuaca.
+
 -Jalankan aplikasi menggunakan Android Studio.
+
